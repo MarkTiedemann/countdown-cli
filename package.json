@@ -1,0 +1,29 @@
+{
+  "name": "countdown-cli",
+  "version": "0.1.0",
+  "bin": {
+    "countdown": "bin.js"
+  },
+  "dependencies": {
+    "log-update": "^2.0.0",
+    "sec": "^1.0.0"
+  },
+  "description": "Simple countdown CLI app.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/countdown-cli.git"
+  },
+  "keywords": [
+    "count",
+    "down",
+    "countdown",
+    "cli",
+    "app"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/countdown-cli/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/countdown-cli"
+}
