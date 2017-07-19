@@ -10,7 +10,7 @@ npm i -g countdown-cli
 
 ## Quickstart
 
-**Output formats:**
+**Output formatting options:**
 
 ```sh
 # Default:
@@ -32,12 +32,9 @@ npm i -g countdown-cli
 # => 0.00%
 ```
 
-**Input formats:**
+**Possible input formats:**
 
 ```sh
-λ countdown 30s
-# => 00:00:30
-
 λ countdown 1h 20m 30s
 # => 01:20:30
 
